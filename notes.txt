@@ -1,0 +1,14 @@
+
+1. npm init
+2. npm i json-server
+3. make db.json
+4. create index.js file
+    1. impoirt json server
+    2. create a server
+    3. setup path for db.json
+    4. Return middleware used by json server
+    5. setup port for server
+    6. use middleware and router
+    7. run the server
+
+5.    "start": "node index.js" in package.json
